@@ -15,4 +15,4 @@ Basic Data Analytics and Visualization using MS Excel.
 MS Excel
 
 ### Duration :
-15.07.2025 - Present
+15.07.2025 - 21.07.2025
